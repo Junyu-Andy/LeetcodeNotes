@@ -1,2 +1,3 @@
 # LeetcodeNotes
-Personal notes 
+Personal notes when solving Leetcode problems.
+
